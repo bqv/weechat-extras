@@ -5,7 +5,7 @@ This is a meta git repository that provides package repositories for the weechat
 
 To use this repository:
 
-* Debian
+**Debian**
 
 ```bash
 sudo apt-get install apt-transport-https
