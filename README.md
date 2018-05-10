@@ -10,7 +10,7 @@ To use this repository:
 ```bash
 apt install apt-transport-https
 cat << EOF >> /etc/apt/sources.list
-deb https://raw.githubusercontent.com/bqv/weechat-extras/master/debian main
+deb https://raw.githubusercontent.com/bqv/weechat-extras/master/debian wheezy main
 EOF
 apt update
 apt install weechat-slack
