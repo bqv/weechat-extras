@@ -5,13 +5,13 @@ This is a meta git repository that provides package repositories for the weechat
 
 To use this repository:
 
-* Debian
+**Debian**
 
 ```bash
-sudo apt-get install apt-transport-https
+apt install apt-transport-https
 cat << EOF >> /etc/apt/sources.list
-deb https://raw.githubusercontent.com/bqv/weechat-extras/master/debian main
+deb https://raw.githubusercontent.com/bqv/weechat-extras/master/debian wheezy main
 EOF
-sudo apt-get update
-sudo apt-get install weechat-slack
+apt update
+apt install weechat-slack
 ```
