@@ -5,3 +5,4 @@ Codename: wheezy
 Architectures: i386 amd64 armel
 Components: main
 Description: Debian packages for weechat-extras
+SignWith: 77A31D11
