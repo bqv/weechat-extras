@@ -1,0 +1,20 @@
+Package: weechat-slack
+Version: 0.1.0
+Architecture: all
+Maintainer: Tony Olagbaiye <frony0@gmail.com>
+Installed-Size: 150
+Depends: weechat (>= 1.4), libwebsockets (>= 2.0)
+Homepage: https://weechat.org/
+Priority: optional
+Section: net
+Filename: pool/main/w/weechat-slack/weechat-slack_0.1.0_all.deb
+Size: 23736
+SHA256: 4db48ebe41c3993dd8c107f73c86e72d48e0bd6790ee9a7edc5be69e2d827163
+SHA1: 68c3e21a07f3bddb839608e20a0d8b6d4e476edb
+MD5sum: b8950142c1639f8b98fb880df8681d01
+Description: Fast, light and extensible chat client - Slack plugin
+ WeeChat (Wee Enhanced Environment for Chat) is a fast and light chat client
+ for many operating systems. Everything can be done with a keyboard.
+ .
+ This package provides the Slack API plugin.
+

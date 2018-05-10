@@ -1,0 +1,38 @@
+Origin: frony0
+Label: weechat-extras
+Suite: stable
+Codename: wheezy
+Date: Thu, 10 May 2018 18:53:18 UTC
+Architectures: i386 amd64 armel
+Components: main
+Description: Debian packages for weechat-extras
+MD5Sum:
+ bd7a700cf726cb55666809a36f115e79 734 main/binary-i386/Packages
+ 18610b95e9987e802a37560d15fcf4b4 508 main/binary-i386/Packages.gz
+ 24776f58d9f1d2b93969e0b3fc661df9 136 main/binary-i386/Release
+ bd7a700cf726cb55666809a36f115e79 734 main/binary-amd64/Packages
+ 18610b95e9987e802a37560d15fcf4b4 508 main/binary-amd64/Packages.gz
+ cd2ea31b02d399be3c2c10e4fc40ba64 137 main/binary-amd64/Release
+ bd7a700cf726cb55666809a36f115e79 734 main/binary-armel/Packages
+ 18610b95e9987e802a37560d15fcf4b4 508 main/binary-armel/Packages.gz
+ fc7241f920909437e56924eee0ccd4b0 137 main/binary-armel/Release
+SHA1:
+ ffb29346df71efe69343d3058d99d1abdc7e92da 734 main/binary-i386/Packages
+ 73ce873a44f39a97c9ffa17f28f83a06731fdfe0 508 main/binary-i386/Packages.gz
+ 9e1c5b16848c717d1c2ff89b29727aac6df009bf 136 main/binary-i386/Release
+ ffb29346df71efe69343d3058d99d1abdc7e92da 734 main/binary-amd64/Packages
+ 73ce873a44f39a97c9ffa17f28f83a06731fdfe0 508 main/binary-amd64/Packages.gz
+ c4448b66f36a0f4eebb8d266043eed77b64e2a61 137 main/binary-amd64/Release
+ ffb29346df71efe69343d3058d99d1abdc7e92da 734 main/binary-armel/Packages
+ 73ce873a44f39a97c9ffa17f28f83a06731fdfe0 508 main/binary-armel/Packages.gz
+ 67500023b20c5b9805a2fb630edef6d82cc7c33c 137 main/binary-armel/Release
+SHA256:
+ 5a89fb3c3356c00f6a7fb75ba10b97d94cd83820d0e4d13e0d65d687fac1875c 734 main/binary-i386/Packages
+ a6eff04f6aea7f3cd51e1d6a45904c826da25e93707a7590484005aba9a42d1e 508 main/binary-i386/Packages.gz
+ 11cdebc1c8e02f9dbac3db4478be7c573dda45b9874979928ab9e50dddb74919 136 main/binary-i386/Release
+ 5a89fb3c3356c00f6a7fb75ba10b97d94cd83820d0e4d13e0d65d687fac1875c 734 main/binary-amd64/Packages
+ a6eff04f6aea7f3cd51e1d6a45904c826da25e93707a7590484005aba9a42d1e 508 main/binary-amd64/Packages.gz
+ a9888b867de5493c6dfa000d2dfe97cfe52c41e965163ca04113f792d81ec723 137 main/binary-amd64/Release
+ 5a89fb3c3356c00f6a7fb75ba10b97d94cd83820d0e4d13e0d65d687fac1875c 734 main/binary-armel/Packages
+ a6eff04f6aea7f3cd51e1d6a45904c826da25e93707a7590484005aba9a42d1e 508 main/binary-armel/Packages.gz
+ 3f53cffc67f3f7762841fa6ce2e76bdf03914459a4baa4dd81710bad2d53a7b1 137 main/binary-armel/Release
