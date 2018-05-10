@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: frony0
+Label: weechat-extras
+Architecture: i386
+Description: Debian packages for weechat-extras
