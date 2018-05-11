@@ -7,9 +7,11 @@ This is a meta git repository that provides package repositories for the weechat
 
 * slack.so ([weechat-slack](https://github.com/bqv/weechat-slack))
 
+**Usage**
+
 To use this repository:
 
-**Debian**
+*Debian*
 
 ```bash
 apt install apt-transport-https
