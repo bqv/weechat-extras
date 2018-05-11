@@ -15,7 +15,7 @@ deb https://raw.githubusercontent.com/bqv/weechat-extras/master/debian wheezy ma
 deb-src https://raw.githubusercontent.com/bqv/weechat-extras/master/debian wheezy main
 EOF
 
-sudo apt-key adv --keyserver pgp.mit.edu --recv-keys 77A31D11
+apt-key adv --keyserver pgp.mit.edu --recv-keys 77A31D11
 
 apt update
 
