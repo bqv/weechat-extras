@@ -1,7 +1,11 @@
 weechat-extras
 ---
 
-This is a meta git repository that provides package repositories for the weechat-extras packages
+This is a meta git repository that provides package repositories for the weechat-extras packages.
+
+**Plugins**
+
+* slack.so ([weechat-slack](https://github.com/bqv/weechat-slack))
 
 To use this repository:
 
