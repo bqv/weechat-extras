@@ -2,7 +2,7 @@ Origin: frony0
 Label: weechat-extras
 Suite: stable
 Codename: wheezy
-Architectures: i386 amd64 armel
+Architectures: i386 amd64 source
 Components: main
 Description: Debian packages for weechat-extras
 SignWith: 77A31D11
