@@ -3,9 +3,13 @@ weechat-extras
 
 This is a meta git repository that provides package repositories for the weechat-extras packages.
 
+Your plugins are welcome, contact [bqv](mailto:frony0@gmail.com) to have your packages added.
+
 **Plugins**
 
 * slack.so ([weechat-slack](https://github.com/bqv/weechat-slack))
+* ~~discord.so~~ ([weechat-discord](https://github.com/khyperia/weechat-discord):TBP)
+* ~~rocketchat.so~~ (TBI)
 
 **Usage**
 
