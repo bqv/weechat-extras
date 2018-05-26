@@ -18,3 +18,21 @@ Description: Fast, light and extensible chat client - Slack plugin
  .
  This package provides the Slack API plugin.
 
+Package: weechat-slack-dbgsym
+Source: weechat-slack
+Version: 0.1.5
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Tony Olagbaiye <frony0@gmail.com>
+Installed-Size: 505
+Depends: weechat-slack (= 0.1.5)
+Priority: optional
+Section: debug
+Filename: pool/main/w/weechat-slack/weechat-slack-dbgsym_0.1.5_amd64.deb
+Size: 419716
+SHA256: e9e626be9ddcbc1344ec22d2c70f12fc240cb6c04d5c0c87d81e75c874c4026c
+SHA1: f59a5cd96e12c0720ad19e5b7be630b0a80cd8ee
+MD5sum: 05bd1d2dca819ffeefd7980728f0fe66
+Description: debug symbols for weechat-slack
+Build-Ids: ddba184fa33540b47bff43427ca5919e2f7ce3e8
+
